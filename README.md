@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hey, I'm Jancarlos (Johnny) 👋
 
-<!--
-**JxBatt/JxBatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Student | Aspiring IT Support & Technical Operations Professional
 
-Here are some ideas to get you started:
+I'm currently pursuing a **B.A. in Computer Science at Thomas Edison State University (TESU)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm interested in understanding how computers work behind the scenes, troubleshooting technical problems, and building practical tools with Python.
+
+### 🛠️ Technical Interests
+
+- **Programming:** Python, HTML, Scratch
+- **IT & Systems:** PC hardware, Windows troubleshooting, system diagnostics
+- **Technical Focus:** Problem-solving, system internals, technical operations
+- **Languages:** English 🇺🇸 | Spanish 🇪🇸
+
+### 🎓 Education
+
+**Thomas Edison State University**
+
+B.A. in Computer Science — In Progress
+
+### 🚀 Currently Learning
+
+- Python fundamentals and programming logic
+- Data structures and working with collections
+- Practical system diagnostics and automation
+- Computer hardware and operating systems
+
+### 📂 Projects
+
+More projects coming soon! I'm currently working on beginner-friendly Python tools focused on PC diagnostics and system information.
+
+---
+
+*Learning by building, troubleshooting, and exploring how technology works.*
